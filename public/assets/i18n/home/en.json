@@ -1,0 +1,9 @@
+{
+    "home":"Home",
+    "What is TypeScript?":"What is TypeScript?",
+    "JavaScript is a loosely typed language. It can be difficult to understand what types of data are being passed around in JavaScript.":
+    "JavaScript is a loosely typed language. It can be difficult to understand what types of data are being passed around in JavaScript.",
+    "In JavaScript, function parameters and variables don't have any information! So developers need to look at documentation, or guess based on the implementation.TypeScript allows specifying the types of data being passed around within the code, and has the ability to report errors when the types don't match.":
+    "In JavaScript, function parameters and variables don't have any information! So developers need to look at documentation, or guess based on the implementation.TypeScript allows specifying the types of data being passed around within the code, and has the ability to report errors when the types don't match."
+    
+}
